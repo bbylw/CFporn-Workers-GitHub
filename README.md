@@ -1,5 +1,7 @@
 # CF-Workers-GitHub-PH-Style
 
+![img](./img.png)
+
 这是一个基于 [@cmliu/CF-Workers-GitHub](https://github.com/cmliu/CF-Workers-GitHub) 的修改版本，保持原有功能的同时，将界面风格改造为类似 Pornhub 的黑橙配色方案。
 
 ## 修改内容
